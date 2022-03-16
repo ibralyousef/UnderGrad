@@ -1,1 +1,1 @@
-Here are the same mathematica codes bur displayed in PDF for a better view
+Here are the same Mathematica codes but displayed in PDF for a better view
