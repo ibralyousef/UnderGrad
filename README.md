@@ -7,3 +7,8 @@ I am a keen physics student, interested in condensed matter theory, and computat
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ibralyousef&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ibralyousef&theme=dark&hide_border=false)<br/>
+# CV <object data="https://github.com/ibralyousef/UnderGrad/blob/main/CV.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://yoursite.com/the.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/ibralyousef/UnderGrad/blob/main/CV.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
