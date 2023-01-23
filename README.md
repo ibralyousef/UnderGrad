@@ -1,5 +1,5 @@
 # About Me:
-I am Ibraheem Al-Yousef, a keen physics student, interested in condensed matter theory, and computational physics. I am passionate to learn, and a fast learner. I enjoy teaching, a skill that I have developed during my undergrad experience at King Fahd University of Petroleum and Minerals.
+I am Ibraheem Al-Yousef, I have a keen interest in the fundamental laws of nature and how they shape the world around us. I pursued a degree in physics as an undergraduate and found great satisfaction in the analytical and rigorous problem-solving approach that the field demands. My particular areas of focus include computational physics, condensed matter physics, and device physics.
 
 # Languages:
 ![Wolfram Mathematica](https://img.shields.io/static/v1?style=for-the-badge&message=Wolfram+Mathematica&color=DD1100&logo=Wolfram+Mathematica&logoColor=FFFFFF&label=) ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=) ![LaTeX](https://img.shields.io/static/v1?style=for-the-badge&message=LaTeX&color=008080&logo=LaTeX&logoColor=FFFFFF&label=)
