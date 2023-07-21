@@ -1,6 +1,8 @@
 # Ibraheem F. Al-Yousef [🔗](https://orcid.org/0000-0002-9467-0616)
 
-[LinkedIn](https://www.linkedin.com/in/ibraheem-alyousef/) Email: [ibralyousef@gmail.com](mailto:ibralyousef@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ibraheem-alyousef/)
+
+Email: [ibralyousef@gmail.com](mailto:ibralyousef@gmail.com)
 
 
 ## Education
@@ -54,13 +56,3 @@
   -  (KFUPM, Oct 2021)
 - Business Skills Training
   -  (KnowledgeHut upGrad, Jun 2020)
-
-## Skills
-- Leadership
-- Competitiveness
-- Teamwork
-- Teaching
-- Presentation
-- Critical Thinking
-- Research
-- Problem Solving
